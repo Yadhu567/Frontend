@@ -1,0 +1,12 @@
+Django==4.1.9
+djangorestframework==3.14.0
+firebase_admin==6.1.0
+numpy==1.23.5
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+Pillow==9.5.0
+Pillow==10.2.0
+Pyrebase4==4.7.0
+Requests==2.31.0
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
